@@ -1,3 +1,6 @@
+# Deep Learning
+This repository contains a set of notebooks realised as an introduction to Deep Learning. They describe different techniques and deep learning model architectures. They were a part of [ESIEE Paris](https://www.esiee.fr/)' Deep Learning course for 4th year apprentices in the "Computer science and applications" sector.
+
 # 1. DRL Cela Tutorial Summary
 
 ## Introduction
