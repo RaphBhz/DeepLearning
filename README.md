@@ -1,6 +1,15 @@
 # Deep Learning
 This repository contains a set of notebooks realised as an introduction to Deep Learning. They describe different techniques and deep learning model architectures. They were a part of [ESIEE Paris](https://www.esiee.fr/)' Deep Learning course for 4th year apprentices in the "Computer science and applications" sector.
 
+# Content
+The repository contains the following files:
+1. DRL_Cela_Tutorial.ipynb - First working session
+2. chickenpox_2024_VE.ipynb - Second working session
+3. ladybug_VE.ipynb - Third Working session
+
+# See Also
+A project was realised at the end of this course. You can check out my realisation of a digit recognizer with a Convolutional Neural Network and a Handwritten Neural Network at https://mnist.heurly.fr/. The code is available on this repository: https://github.com/aithamid/numbers-deeplearning
+
 # 1. DRL Cela Tutorial Summary
 
 ## Introduction
